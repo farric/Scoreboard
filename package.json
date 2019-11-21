@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/951565664/Scoreboard#readme",
   "peerdependencies": {
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "dependencies": {
     "prop-types": "^15.6.1",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
