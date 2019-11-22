@@ -20,10 +20,6 @@
     "url": "https://github.com/951565664/Scoreboard/issues"
   },
   "homepage": "https://github.com/951565664/Scoreboard#readme",
-  // "peerdependencies": {
-  //   "react": "^16.6.3",
-  //   "react-dom": "^16.6.3"
-  // },
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.6.3",
@@ -48,6 +44,7 @@
     "markdown-it": "^8.4.1",
     "style-loader": "^0.21.0",
     "webpack": "^3.10.0",
+    "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^2.11.1"
   }
 }
